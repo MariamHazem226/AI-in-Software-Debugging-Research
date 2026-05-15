@@ -1,0 +1,14 @@
+{
+  "standard_ma": 63.33333333333333,
+  "standard_sd": 60.0,
+  "standard_hybrid": 60.0,
+  "codesim_ma": 83.33333333333334,
+  "codesim_sd": 90.0,
+  "codesim_hybrid": 90.0,
+  "normal_agentcoder": 56.666666666666664,
+  "normal_codex": 56.666666666666664,
+  "normal_mgdebugger": 56.666666666666664,
+  "ref_agentcoder": 60.0,
+  "ref_codex": 50.0,
+  "ref_mgdebugger": 63.33333333333333
+}
